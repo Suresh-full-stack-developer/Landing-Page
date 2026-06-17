@@ -168,7 +168,7 @@ ul li a:hover{
     font-size: 15px;
     border-radius: 15px;
     text-align: center;
-}
+}   
 .form input{
     width: 240px;
     height: 35px;
@@ -211,7 +211,7 @@ ul li a:hover{
     line-height: 20px;
     color: white;
 }
-.form a:hover{
+.form .btn2 a:hover{
     color: black;
 }
 .form p{
